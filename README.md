@@ -1,7 +1,7 @@
 # Hi there, I'm Stanislav 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200px"/>
 </div>
 
 ![codewars](https://www.codewars.com/users/unbulanov/badges/small)
