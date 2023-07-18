@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200px"/>
 </div>
 
-<h3 align="center">My Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">My Languages and Tools:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,js,jest,nodejs,react,redux,sass,ts,webpack" />
   </a>
