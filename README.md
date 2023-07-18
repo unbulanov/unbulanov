@@ -1,6 +1,8 @@
 # Hi there, I'm Stanislav 👋
 
-(<iframe src="https://giphy.com/embed/kJV3yFjaVYtlP0CMOR" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-fusionacl-pizzacoding-kJV3yFjaVYtlP0CMOR">via GIPHY</a></p>)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+</div>
 
 ![codewars](https://www.codewars.com/users/unbulanov/badges/small)
 
