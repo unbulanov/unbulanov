@@ -4,6 +4,12 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200px"/>
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ![codewars](https://www.codewars.com/users/unbulanov/badges/small)
 
 
