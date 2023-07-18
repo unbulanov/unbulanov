@@ -10,3 +10,5 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,js,jest,nodejs,react,redux,sass,ts,webpack" />
   </a>
 </p>
+
+![codewars](https://www.codewars.com/users/unbulanov/badges/small)
