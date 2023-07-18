@@ -1,29 +1,14 @@
-# Hi there, I'm Stanislav 👋
+<h1 align="center">Hi there 👋, I'm Stanislav</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200px"/>
 </div>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,js,jest,nodejs,react,redux,sass,ts,webpack" />
   </a>
 </p>
 
-![codewars](https://www.codewars.com/users/unbulanov/badges/small)
-
-
-<!--
-**unbulanov/unbulanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><a href="https://www.codewars.com/users/unbulanov/badges/small"></a></p>
