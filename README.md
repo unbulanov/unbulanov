@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](git@github.com:unbulanov/unbulanov.git)
+[![codewars](https://www.codewars.com/users/unbulanov/badges/small)
 
 
 <!--
