@@ -1,7 +1,6 @@
 # Hi there, I'm Stanislav 👋
 
-##
-![codewars](https://www.codewars.com/users/unbulanov/badges/small)
+##![codewars](https://www.codewars.com/users/unbulanov/badges/small)
 
 
 <!--
