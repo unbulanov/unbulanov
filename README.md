@@ -6,6 +6,7 @@
 
 ```
 Any sufficiently advanced bug is indistinguishable from a feature.
+Never trust a computer you can’t throw out a window.
 ```
 
 <h3 align="left">My Languages and Tools:</h3>
