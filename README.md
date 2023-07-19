@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200px"/>
 </div>
 
+```
+Any sufficiently advanced bug is indistinguishable from a feature.
+```
+
 <h3 align="left">My Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
