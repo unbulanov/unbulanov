@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200px"/>
 </div>
 
-##
+<hr>
 
 <h3 align="left">My Languages and Tools:</h3>
 <p align="left">
