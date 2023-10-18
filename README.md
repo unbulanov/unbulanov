@@ -9,7 +9,7 @@
 <h3 align="left">My Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,js,jest,nodejs,react,redux,sass,ts,webpack" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,js,jest,nodejs,react,redux,sass,ts,webpack,express,graphql,nextjs,tailwind" />
   </a>
 </p>
 
